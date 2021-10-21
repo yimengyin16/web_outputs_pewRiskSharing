@@ -34,10 +34,12 @@ if(shared_ver){
 	if (nrow(fn) == 0) return(paste0("No shared version for ", plan_name)) 
 }
 
+
 fn <- 
   fn %>% 
 	filter(ver == max(ver)) %>% 
 	pull(fn)
+
 
 fn_path <- paste0("../model_", plan_name, "/analysis/", fn)
 

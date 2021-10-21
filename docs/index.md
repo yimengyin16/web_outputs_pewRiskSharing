@@ -10,4 +10,4 @@ Preliminary simulation results for discussion
 
 - [Nebraska State Employees' Retirement System (NESERS) Cash Balance Benefit Fund](analysis_NESERS_v(2.0).nb.html)
 
-- [Wisconsin Retirement System (WRS)](analysis_WRS_v(1.0).nb.html)
+- [Wisconsin Retirement System (WRS), updated new policies requested](analysis_WRS2_v(0.2).nb.html)
