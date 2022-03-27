@@ -1,6 +1,6 @@
 # Simulation Results of Public Pension Risk Sharing 
 
-Preliminary simulation results for discussion
+Modeling approach and simulation results
 
 - [MainePERS, Consolidated Plan for Participating Local Districts](analysis_MEPERS_v(3.1).nb.html)
 
@@ -10,4 +10,4 @@ Preliminary simulation results for discussion
 
 - [Nebraska State Employees' Retirement System (NESERS) Cash Balance Benefit Fund](analysis_NESERS_v(2.1).nb.html)
 
-- [Wisconsin Retirement System (WRS), updated new policies requested](analysis_WRS2_v(1.0).nb.html)
+- [Wisconsin Retirement System (WRS), updated with new policies requested](analysis_WRS2_v(1.0).nb.html)
